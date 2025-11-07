@@ -1,6 +1,6 @@
-Perfect 👍 — here’s a clean, professional **README.md** file for your weather app project (ready to upload to GitHub).
 
----
+
+
 
 ## 🌦️ Weather App (Python)
 
@@ -109,6 +109,3 @@ export WEATHER_API_KEY=your_api_key_here # Mac/Linux
 **Muzammil Ahsan**
 Tech Explorer | AI & ML Enthusiast | Data Science Learner
 
----
-
-Would you like me to also add a **“formatted output”** version of your code (where weather is printed cleanly, not raw JSON)? It looks more professional for your GitHub repo.
